@@ -29,7 +29,7 @@ export const StyledPhoneList = styled.div`
 
   label {
     display: block;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     font-weight: 500;
     color: #34495e;
   }
